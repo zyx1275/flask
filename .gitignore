@@ -1,5 +1,11 @@
 bin/
 lib/
 lib64
+<<<<<<< HEAD
 pyvenv.cfg
 share/
+=======
+share/
+pyvenv.cfg
+__pycache__/
+>>>>>>> 7741bbef78c9ef28d046a780aac23fb2d5bf9919
